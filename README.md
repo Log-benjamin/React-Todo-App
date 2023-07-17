@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h2><b>Todo List - Web App</b></h3>
+  <h2><b> React Todo List - App</b></h3>
 </div>
 # 📗 Table of Contents
 
@@ -62,7 +62,7 @@ In order to run this project you need:
 ### Setup
 Clone this repository to your desired folder or download the Zip folder:
 ```sh
-"git clone https://github.com/Log-benjamin/TodoList-App.git"
+"git clone https://github.com/Log-benjamin/React-Todo-App.git"
 ```
 - Navigate to the location of the folder in your machine:
 
